@@ -1,4 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@172.96.192.58:254#%F0%9F%87%BA%F0%9F%87%B8US-172.96.192.58-0463
-trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@159.223.89.239:443?allowInsecure=1&security=tls&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG-159.223.89.239-0240
-trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@sg-01.tiktokcdn.top:443?allowInsecure=1&security=tls&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG-159.223.89.239-0282
-trojan://3f087c04-44e6-4c96-a917-ca974de1212b@kr1.api-aws.com:443?allowInsecure=1&security=tls&type=tcp#%F0%9F%87%B0%F0%9F%87%B7KR-146.56.176.239-15564
+s+'dest.png'
