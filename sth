@@ -1,0 +1,11 @@
+sets
+         i index for factory /1,2/
+         j index for type of Refrigerator /A,B,C,D/;
+
+table T(i,j)
+                 A       B        C       D
+         1       20      50       30      15
+         2       60      25       15      25 ;
+
+file f / 'custom_table.txt' /;
+put T, f;
