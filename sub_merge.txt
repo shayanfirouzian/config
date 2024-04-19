@@ -1,1 +1,2 @@
 vless://8679519c-e3a1-43f3-965c-8ee26e010984@s3.gamenolimit.top:17510?type=tcp&security=none&headerType=http&path=/&host=speedtest.net#s3-32390
+vless://15c22ec1-d882-4d02-89f8-2b8edc06129d@107.191.55.186:19720/?encryption=none&host=internet.life.com.by&type=tcp&headerType=http
